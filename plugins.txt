@@ -39,7 +39,7 @@ docker-workflow:1.21
 durable-task:1.36
 favorite:2.3.2
 git-client:3.0.0
-git-server:1.8
+git-server:1.11
 git:4.0.0
 gitea:1.1.2
 github-api:1.95
