@@ -47,9 +47,9 @@ favorite:2.3.1
 git-client:2.8.0
 git-server:1.10
 git:3.10.0
-github-api:1.90
-github-branch-source:2.3.2
-github:1.26.0
+github-api:1.110
+github-branch-source:2.7.1
+github:1.29.3
 handy-uri-templates-2-api:2.1.6-1.0
 htmlpublisher:1.14
 jackson2-api:2.10.2
@@ -61,7 +61,7 @@ jquery-detached:1.2.1
 jsch:0.1.54.2
 junit:1.28
 kubernetes-client-api:4.6.4-2
-kubernetes-credentials-provider:0.11
+kubernetes-credentials-provider:0.18-1	
 kubernetes-credentials:0.6.2
 kubernetes:1.23.4
 ldap:1.26
@@ -87,7 +87,7 @@ pubsub-light:1.12
 scm-api:2.6.3
 script-security:1.64
 sse-gateway:1.17
-ssh-credentials:1.13
+ssh-credentials:1.18.1
 sshd:3.236.ved5e1b_cb_50b_2
 sonar:2.11
 structs:1.23
