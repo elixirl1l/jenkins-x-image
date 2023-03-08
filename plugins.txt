@@ -34,7 +34,7 @@ config-file-provider:3.11.1
 configuration-as-code:1569.vb_72405b_80249
 credentials-binding:523.vd859a_4b_122e6
 credentials:1214.v1de940103927
-conjur-credentials:1.0.12
+conjur-credentials:1.0.14
 display-url-api:2.3.7
 docker-commons:1.21
 docker-workflow:563.vd5d2e5c4007f
@@ -50,7 +50,7 @@ git-client:4.1.0
 git-server:99.va_0826a_b_cdfa_d
 git:5.0.0
 git-parameter:0.9.18
-github-api:1.303-400.v35c2d8258028
+github-api:1.303-417.ve35d9dd78549
 github-branch-source:1701.v00cc8184df93
 github:1.37.0
 gradle:2.3
@@ -114,11 +114,11 @@ support-core:1262.vc248605ec68b
 timestamper:1.22
 token-macro:321.vd7cc1f2a_52c8
 variant:59.vf075fe829ccb
-workflow-aggregator:590.v6a_d052e5a_a_b_5
+workflow-aggregator:596.v8c21c963d92d
 workflow-api:1208.v0cc7c6e0da_9e
 workflow-basic-steps:1010.vf7a_b_98e847c1
 workflow-cps-global-lib:609.vd95673f149b_b
-workflow-cps:3629.v8177e69e359a_
+workflow-cps:3635.vedb_8602eefa_c
 workflow-durable-task-step:1234.v019404b_3832a
 workflow-job:1282.ve6d865025906
 workflow-multibranch:733.v109046189126
