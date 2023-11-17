@@ -26,6 +26,7 @@ blueocean-web:1.27.9
 blueocean:1.27.9
 bouncycastle-api:2.29
 branch-api:2.1135.v8de8e7899051
+build-with-parameters:76.v9382db_f78962
 cloudbees-bitbucket-branch-source:848.v42c6a_317eda_e
 cloudbees-disk-usage-simple:187.v6378d330d1d4
 cloudbees-folder:6.858.v898218f3609d
@@ -54,6 +55,7 @@ github-api:1.316-451.v15738eef3414
 github-branch-source:1751.v90e17c48a_6a_c
 github:1.37.3.1
 gradle:2.9
+groovy:457.v99900cb_85593
 handlebars:3.0.8
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.32
@@ -76,6 +78,7 @@ kubernetes:4144.vfd176ec18694
 ldap:711.vb_d1a_491714dc
 mailer:463.vedf8358e006b_
 mapdb-api:1.0.9-28.vf251ce40855d
+mask-passwords:173.v6a_077a_291eb_5
 matrix-auth:3.2.1
 matrix-project:818.v7eb_e657db_924
 maven-plugin:3.23
