@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:lts-slim-jdk17
+FROM jenkins/jenkins:2.426.2-lts-slim
 
 USER root
 RUN apt-get update && apt-get install -y vim
