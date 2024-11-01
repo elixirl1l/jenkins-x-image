@@ -35,7 +35,6 @@ config-file-provider:980.v88956a_a_5d6a_d
 configuration-as-code:1873.vea_5814ca_9c93
 credentials-binding:687.v619cb_15e923f
 credentials:1389.vd7a_b_f5fa_50a_2
-conjur-credentials:1.0.18
 display-url-api:2.209.v582ed814ff2f
 docker-commons:443.v921729d5611d
 docker-workflow:580.vc0c340686b_54
@@ -132,8 +131,8 @@ workflow-step-api:678.v3ee58b_469476
 workflow-support:930.vf51d22b_ce488
 ws-cleanup:0.48
 xunit:3.1.5
-jobcacher:551.ve0b_00cb_1b_85c
-aws-java-sdk-ec2:1.12.767-467.vb_e93f0c614b_6
-aws-java-sdk-minimal:1.12.767-467.vb_e93f0c614b_6
+jobcacher:573.v33fa_12644a_91
+aws-java-sdk-ec2:1.12.772-474.v7f79a_2046a_fb_
+aws-java-sdk-minimal:1.12.772-474.v7f79a_2046a_fb_
 aws-credentials:231.v08a_59f17d742
 Parameterized-Remote-Trigger:3.2.0
